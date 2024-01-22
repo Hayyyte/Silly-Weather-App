@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    background-image: url("rat.jpg");
+    background-size: 75px;
+    background-repeat: repeat;
+    height: 111vh;
+}
+
+.container {
+    background-color: violet;
+    height: 100vh;
+}
+
+.box {
+    background-color: lightblue;
+    border: 1px solid blue;
+    min-height: 50px;
+    font-size: 2rem;
+}
+
+a {
+    text-decoration: none;
+    color: black !important;
+}
+
+#weatherResult {
+    height: 250px;
+}
